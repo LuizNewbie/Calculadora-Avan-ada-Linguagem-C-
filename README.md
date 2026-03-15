@@ -1,4 +1,4 @@
-#Calculadora Avançada na Linguagem C!
+# Calculadora Avançada na Linguagem C!
 
 Um projeto básico apenas para testes, funciona apenas no Windows devido ao comando system("pause").
 Feito na linguagem C utilizando o VsCode.  
